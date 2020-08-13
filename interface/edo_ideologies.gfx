@@ -1,0 +1,18 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_ideology_democratic_unity_group"
+		texturefile = "gfx/interface/ideologies/democratic_unity_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_autoritarian_unity_group"
+		texturefile = "gfx/interface/ideologies/autoritarian_unity_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_carnivore_supremacy_group"
+		texturefile = "gfx/interface/ideologies/carnivore_supremacy_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_herbivore_contingency_group"
+		texturefile = "gfx/interface/ideologies/herbivore_contingency_group.dds"
+	}
+}
