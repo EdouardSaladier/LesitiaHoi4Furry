@@ -1,0 +1,20 @@
+state={
+	id=5
+	name="STATE_5"
+	
+	history={
+		buildings = {
+			infrastructure = 1
+
+		}
+		owner = ANE
+	}
+	
+	provinces={
+		1476 1644 2964 3220 3371 4239 4635 4835 4994 6232 6330 6580 6668 8593 8601 8651 8655 8695 
+	}
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+}

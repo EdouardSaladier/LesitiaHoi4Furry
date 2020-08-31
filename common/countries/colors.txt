@@ -5,3 +5,13 @@ TES = {
 	color = rgb { 150 150 150 }
 	color_ui = rgb { 150 150 150 }
 }
+
+ANE = {
+	color = rgb { 122 15 28 }
+	color_ui = rgb { 122 15 28 }
+}
+
+BIL = {
+	color = rgb { 99 160 73 }
+	color_ui = rgb { 99 160 73 }
+}
