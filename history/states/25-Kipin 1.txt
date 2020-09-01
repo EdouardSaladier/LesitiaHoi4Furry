@@ -1,16 +1,15 @@
-
 state={
-	id=9
-	name="STATE_9"
+	id=25
+	name="STATE_25"
 	provinces={
-		6789 8202 8240 8254 
+		684 755 1825 3564 3904 4145 6415 8433 8481 8500 8509 8522 
 	}
 	history={
-		owner = OYA
+		owner = KIP
 		buildings = {
 			infrastructure = 5
 		}
-		add_core_of = OYA
+		add_core_of = KIP
 	}
 	manpower = 500000
 	buildings_max_level_factor=1.000

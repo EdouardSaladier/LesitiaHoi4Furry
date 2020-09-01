@@ -1,17 +1,21 @@
+
 state={
 	id=7
 	name="STATE_7"
-	provinces={
-		78 357 565 833 2395 2789 2961 3476 4429 4904 6056 6716 6922 6947 8356 8486 8534 8552 8579 8588 8631 8678 8693 8717 8743 8766 
-	}
+
 	history={
 		owner = LIR
 		buildings = {
 			infrastructure = 5
+
 		}
 		add_core_of = LIR
-	}
-	manpower = 500000
 
+	}
+
+	provinces={
+		78 357 833 2395 2789 2961 3476 4429 4904 6716 6922 6947 8356 8486 8534 8552 8579 8588 8631 8678 8693 8717 8743 8766 
+	}
+	manpower=500000
 	buildings_max_level_factor=1.000
 }

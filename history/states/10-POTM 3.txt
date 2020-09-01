@@ -5,6 +5,13 @@ state={
 	provinces={
 		386 3850 5256 6517 6911 8259 8267 8304 
 	}
-	manpower=0
+	history={
+		owner = EKI
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = EKI
+	}
+	manpower = 500000
 	buildings_max_level_factor=1.000
 }

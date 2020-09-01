@@ -1,16 +1,15 @@
-
 state={
-	id=9
-	name="STATE_9"
+	id=28
+	name="STATE_28"
 	provinces={
-		6789 8202 8240 8254 
+		4489 6525 6837 8482 8503 8514 8557 
 	}
 	history={
-		owner = OYA
+		owner = URO
 		buildings = {
 			infrastructure = 5
 		}
-		add_core_of = OYA
+		add_core_of = URO
 	}
 	manpower = 500000
 	buildings_max_level_factor=1.000

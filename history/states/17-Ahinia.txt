@@ -1,16 +1,15 @@
-
 state={
-	id=9
-	name="STATE_9"
+	id=17
+	name="STATE_17"
 	provinces={
-		6789 8202 8240 8254 
+		634 1085 1881 3378 8517 8572 8614 8615 8658 8659 8667 8710 
 	}
 	history={
-		owner = OYA
+		owner = AHI
 		buildings = {
 			infrastructure = 5
 		}
-		add_core_of = OYA
+		add_core_of = AHI
 	}
 	manpower = 500000
 	buildings_max_level_factor=1.000

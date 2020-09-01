@@ -15,3 +15,26 @@ TOR	= "countries/Torell.txt"
 MAS	= "countries/Masalit.txt"
 ARI	= "countries/Arisatal.txt"
 LIR	= "countries/Lirinia.txt"
+# NEW NATIONS #
+GAT	= "countries/Gatinir.txt"
+ERI	= "countries/Eriten.txt"
+### (AKA Established mountain nation 1)
+STL	= "countries/Sotala.txt"
+AHI	= "countries/Ahinia.txt"
+BOS	= "countries/Bostrum.txt"
+NOR	= "countries/Norial.txt"
+PAL	= "countries/Paltine.txt"
+### (Avian state)
+KAS	= "countries/Kasatal.txt"
+### (POTM 1)
+OYA	= "countries/Oyan.txt"
+### (POTM 2)
+EKI	= "countries/Ekichi.txt"
+### (POTM 3)
+URO	= "countries/Urota.txt"
+### (POTM 4)
+PLT	= "countries/Paltan.txt"
+TUP	= "countries/Tupeches.txt"
+### (POTW 1)
+ONC	= "countries/Onchad.txt"
+### (POTW 2)

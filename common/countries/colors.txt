@@ -86,3 +86,72 @@ LIR = {
 	color_ui = rgb { 87 42 23 }
 }
 
+GAT = {
+	color = rgb { 182 105 174 }
+	color_ui = rgb { 182 105 174 }
+}
+
+ERI = {
+	color = rgb { 120 198 181 }
+	color_ui = rgb { 120 198 181 }
+}
+
+STL = {
+	color = rgb { 108 112 150 }
+	color_ui = rgb { 108 112 150 }
+}
+
+AHI = {
+	color = rgb { 255 197 99 }
+	color_ui = rgb { 255 197 99 }
+}
+
+BOS = {
+	color = rgb { 128 159 0 }
+	color_ui = rgb { 128 159 0 }
+}
+
+NOR = {
+	color = rgb { 173 124 52 }
+	color_ui = rgb { 173 124 52 }
+}
+
+PAL = {
+	color = rgb { 137 211 157 }
+	color_ui = rgb { 137 211 157 }
+}
+
+KAS = {
+	color = rgb { 112 105 75 }
+	color_ui = rgb { 112 105 75 }
+}
+
+OYA = {
+	color = rgb { 87 42 23 }
+	color_ui = rgb { 87 42 23 }
+}
+
+EKI = {
+	color = rgb { 99 103 112 }
+	color_ui = rgb { 99 103 112 }
+}
+
+URO = {
+	color = rgb { 112 78 93 }
+	color_ui = rgb { 112 78 93 }
+}
+
+PLT = {
+	color = rgb { 102 124 76 }
+	color_ui = rgb { 102 124 76 }
+}
+
+TUP = {
+	color = rgb { 129 137 129 }
+	color_ui = rgb { 129 137 129 }
+}
+
+ONC = {
+	color = rgb { 109 101 101 }
+	color_ui = rgb { 109 101 101 }
+}

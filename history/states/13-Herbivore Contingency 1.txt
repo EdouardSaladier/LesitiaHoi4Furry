@@ -1,0 +1,16 @@
+state={
+	id=13
+	name="STATE_13"
+	provinces={
+		570 661 853 1012 1637 1892 2439 2772 3657 4339 5181 5538 6526 6746 6874 7301 7357 7406 9012 9095 9151 9152 9175 9215 9235 9244 9373 9415 9445 9513 9555 
+	}
+	history={
+		owner = TAL
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = TAL
+	}
+	manpower = 500000
+	buildings_max_level_factor=1.000
+}
