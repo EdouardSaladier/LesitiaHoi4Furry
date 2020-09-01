@@ -5,6 +5,14 @@ state={
 	provinces={
 		707 1049 1386 1691 1853 3237 3304 3525 3990 4261 4558 5328 5442 5893 6119 6238 6282 6500 6547 7110 7226 7243 8030 8044 8049 8057 8076 8096 8100 8112 8113 8119 8121 8143 8175 8181 8197 8207 8222 8229 8270 
 	}
-	manpower=0
+	history={
+		owner = DAR
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = DAR
+	}
+	manpower = 500000
+
 	buildings_max_level_factor=1.000
 }

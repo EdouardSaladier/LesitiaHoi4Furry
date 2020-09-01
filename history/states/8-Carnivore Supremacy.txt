@@ -4,6 +4,14 @@ state={
 	provinces={
 		171 466 835 2278 3023 3033 3119 4434 4731 4995 5493 6225 6233 6568 6588 8189 8223 8230 8276 8277 8297 8331 8393 8459 8619 
 	}
-	manpower=0
+	history={
+		owner = SOT
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = SOT
+	}
+	manpower = 500000
+
 	buildings_max_level_factor=1.000
 }
