@@ -15,3 +15,74 @@ BIL = {
 	color = rgb { 99 160 73 }
 	color_ui = rgb { 99 160 73 }
 }
+
+TAL = {
+	color = rgb { 0 64 28 }
+	color_ui = rgb { 0 64 28 }
+}
+
+POD = {
+	color = rgb { 204 185 93 }
+	color_ui = rgb { 204 185 93 }
+}
+
+PAS = {
+	color = rgb { 204 108 132 }
+	color_ui = rgb { 204 108 132 }
+}
+
+ORS = {
+	color = rgb { 127 146 255 }
+	color_ui = rgb { 127 146 255 }
+}
+
+DAR = {
+	color = rgb { 62 89 112 }
+	color_ui = rgb { 62 89 112 }
+}
+
+ELA = {
+	color = rgb { 255 163 135 }
+	color_ui = rgb { 255 163 135 }
+}
+
+SOT = {
+	color = rgb { 151 37 40 }
+	color_ui = rgb { 151 37 40 }
+}
+
+PAT = {
+	color = rgb { 140 189 184 }
+	color_ui = rgb { 140 189 184 }
+}
+
+KIP = {
+	color = rgb { 156 143 51 }
+	color_ui = rgb { 156 143 51 }
+}
+
+EHA = {
+	color = rgb { 194 139 201 }
+	color_ui = rgb { 194 139 201 }
+}
+
+TOR = {
+	color = rgb { 250 69 37 }
+	color_ui = rgb { 250 69 37 }
+}
+
+MAS = {
+	color = rgb { 102 179 80 }
+	color_ui = rgb { 102 179 80 }
+}
+
+ARI = {
+	color = rgb { 105 110 207 }
+	color_ui = rgb { 105 110 207 }
+}
+
+LIR = {
+	color = rgb { 87 42 23 }
+	color_ui = rgb { 87 42 23 }
+}
+
