@@ -38,3 +38,6 @@ TUP	= "countries/Tupeches.txt"
 ### (POTW 1)
 ONC	= "countries/Onchad.txt"
 ### (POTW 2)
+ALI	= "countries/Aliria.txt"
+MAL	= "countries/Malat.txt"
+SEO	= "countries/Seotan.txt"

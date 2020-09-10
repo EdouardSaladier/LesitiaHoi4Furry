@@ -155,3 +155,18 @@ ONC = {
 	color = rgb { 109 101 101 }
 	color_ui = rgb { 109 101 101 }
 }
+
+ALI = {
+	color = rgb { 213 225 79 }
+	color_ui = rgb { 213 225 79 }
+}
+
+MAL = {
+	color = rgb { 206 87 57 }
+	color_ui = rgb { 206 87 57 }
+}
+
+SEO = {
+	color = rgb { 48 70 55 }
+	color_ui = rgb { 48 70 55 }
+}

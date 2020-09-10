@@ -1,0 +1,16 @@
+state={
+	id=31
+	name="STATE_31"
+	provinces={
+		2087 2271 4767 5070 6085 6729 6926 7261 8215 8279 8285 8298 8341 8342 8344 8396 8414 8501 
+	}
+	history={
+		owner = ALI
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = ALI
+	}
+	manpower = 500000
+	buildings_max_level_factor=1.000
+}
