@@ -10,15 +10,15 @@ set_technology = {
 set_convoys = 20
 
 set_politics = {
-	ruling_party = carnivore_supremacy
+	ruling_party = autoritarian_unity
 	last_election = "1998.1.1"
 	election_frequency = 96
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic_unity = 1
-	autoritarian_unity = 13
-	carnivore_supremacy = 86
-	herbivore_contingency = 0
+	democratic_unity = 25
+	autoritarian_unity = 25
+	carnivore_supremacy = 25
+	herbivore_contingency = 25
 }

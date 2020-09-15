@@ -1,4 +1,4 @@
-capital = 1
+capital = 4
 
 #oob = ""
 
@@ -17,8 +17,8 @@ set_politics = {
 }
 
 set_popularities = {
-	democratic_unity = 25
-	autoritarian_unity = 25
-	carnivore_supremacy = 25
-	herbivore_contingency = 25
+	democratic_unity = 68
+	autoritarian_unity = 17
+	carnivore_supremacy = 7
+	herbivore_contingency = 8
 }

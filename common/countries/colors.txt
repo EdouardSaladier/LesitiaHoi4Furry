@@ -170,3 +170,18 @@ SEO = {
 	color = rgb { 48 70 55 }
 	color_ui = rgb { 48 70 55 }
 }
+
+OTE = {
+	color = rgb { 183 232 211 }
+	color_ui = rgb { 183 232 211 }
+}
+
+EME = {
+	color = rgb { 105 70 120 }
+	color_ui = rgb { 105 70 120 }
+}
+
+RIN = {
+	color = rgb { 189 184 126 }
+	color_ui = rgb { 189 184 126 }
+}

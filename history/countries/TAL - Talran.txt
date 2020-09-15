@@ -17,8 +17,8 @@ set_politics = {
 }
 
 set_popularities = {
-	democratic_unity = 25
-	autoritarian_unity = 25
-	carnivore_supremacy = 25
-	herbivore_contingency = 25
+	democratic_unity = 3
+	autoritarian_unity = 23
+	carnivore_supremacy = 0
+	herbivore_contingency = 74
 }

@@ -41,3 +41,8 @@ ONC	= "countries/Onchad.txt"
 ALI	= "countries/Aliria.txt"
 MAL	= "countries/Malat.txt"
 SEO	= "countries/Seotan.txt"
+OTE = "countries/Otelan.txt"
+EME = "countries/Emenir.txt"
+### (Sotelmin Border Command)
+RIN = "countries/Rinalat.txt"
+### (Feudatory of Oros)

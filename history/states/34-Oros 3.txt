@@ -1,0 +1,18 @@
+state={
+	id=34
+	name="STATE_34"
+	provinces={
+		3969 4219 5631 8194 8241 
+	}
+	history={
+		owner = ORS
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = ORS
+		victory_points = { 8241 1 }
+	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+}

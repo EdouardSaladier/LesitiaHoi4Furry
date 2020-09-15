@@ -1,0 +1,133 @@
+﻿###########################
+# Test Events
+###########################
+
+add_namespace = test
+
+# Test Event 1
+country_event = {
+	id = test.1
+	title = test.1.t
+	desc = test.1.d
+	
+	immediate = {
+		
+	}
+	trigger = {
+	}
+
+	is_triggered_only = yes
+	
+	option = {
+		name = test.1.a
+				SOT = { 
+			transfer_state = 34
+			transfer_state = 36
+			transfer_state = 35
+			transfer_state = 4
+			transfer_state = 6
+		}
+				DAR = { 
+			transfer_state = 33
+		}
+	}
+	
+	option = {
+		name = test.1.b
+				SOT = { 
+			transfer_state = 34
+			transfer_state = 36
+			transfer_state = 35
+			transfer_state = 6
+		}
+				DAR = { 
+			transfer_state = 33
+			transfer_state = 4
+		}
+	}
+	
+	option = {
+		name = test.1.c
+				SOT = { 
+			transfer_state = 36
+			transfer_state = 6
+		}
+				DAR = { 
+			transfer_state = 33
+			transfer_state = 4
+			transfer_state = 34
+			transfer_state = 35
+		}
+	}
+	
+	option = {
+		name = test.1.e
+				DAR = {
+			puppet = RIN
+		}
+				SOT = {
+			puppet = EME
+			transfer_state = 6
+		}
+				RIN = { 
+			transfer_state = 33
+			transfer_state = 4
+			set_cosmetic_tag = RIN_DAR
+		}
+				OTE = { 
+			transfer_state = 35
+			add_state_core = 35
+		}
+				EME = { 
+			transfer_state = 34
+			transfer_state = 36
+			set_cosmetic_tag = EME_SOT
+		}
+	}
+	
+}
+
+country_event = {
+	id = test.2
+	title = test.2.t
+	desc = test.2.d
+	
+	immediate = {
+		
+	}
+	trigger = {
+	}
+
+	is_triggered_only = yes
+	
+	option = {
+		name = test.2.a
+				RIN = { 
+			set_cosmetic_tag = RIN
+		}
+				EME = { 
+			set_cosmetic_tag = EME
+		}
+	}
+}
+
+add_namespace = army
+
+country_event = {
+	id = army.1
+	title = army.1.t
+	desc = army.1.d
+	
+	immediate = {
+		
+	}
+	trigger = {
+	}
+
+	is_triggered_only = yes
+	
+	option = {
+		name = army.1.a
+			load_oob = SMALL_ARMY_2000
+		}
+	}

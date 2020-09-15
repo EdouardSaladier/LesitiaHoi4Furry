@@ -1,0 +1,92 @@
+﻿division_template = {
+	name = "Infantry Division"		# Infantry Division
+	division_names_group = ENG_INF_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+}
+division_template = {
+	name = "Mountain Brigade"			# Mountain Brigade
+	division_names_group = SPAN_MNT_02
+	regiments = {
+		mountaineers = { x = 0 y = 0 }	
+		mountaineers = { x = 0 y = 1 }
+		mountaineers = { x = 0 y = 2 }
+	}
+}
+
+units = {
+	##### Ejército Argentino #####
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 6525
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+
+	}
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 2
+		}
+		location = 6525
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+
+	}
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 3
+		}
+		location = 6525
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+
+	}
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 4
+		}
+		location = 6525
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+
+	}
+	division= {
+		division_name = {
+				is_name_ordered = yes
+				name_order = 5
+		}
+		location = 6525
+		division_template = "Infantry Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+
+	}
+	division= {	
+		name = "Mountain Border Guard Brigade"
+		location = 6525
+		division_template = "Mountain Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+
+	}
+}

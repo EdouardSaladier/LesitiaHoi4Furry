@@ -1,0 +1,10 @@
+
+RIN_DAR = {
+    color = rgb { 53 77 97 }
+    color_ui = rgb { 53 77 97 }
+}
+
+EME_SOT = {
+    color = rgb { 138 34 37 }
+    color_ui = rgb { 138 34 37 }
+}
